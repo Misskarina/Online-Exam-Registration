@@ -1,0 +1,15 @@
+===== Exam Registration Receipt =====
+Roll No       : EXAM414676
+Full Name     : Karina Kumari
+Email         : karina234@gmail.com
+Phone         : 7896541230
+DOB           : 01-01-2005
+Gender        : Female
+Course        : B.Tech
+Exam Center   : Bangalore
+Mode of Exam  : Offline
+ID Proof Type : Aadhar
+ID Number     : 784512986532
+Address       : Bangalore
+====================================
+

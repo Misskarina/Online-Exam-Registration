@@ -1,0 +1,2 @@
+EXAM426329,abc xyz,abc167@gmail.com,4569873210,01-02-2005,Female,B.Sc,Delhi,Offline,Aadhar,784512986532,Mumbai
+EXAM281300,Raj Kumar,rajkumar951ce@gmail.com,8102772401,29/11/2003,Male,B.Tech,Bangalore,Offline,Aadhar,549922951915,Jakkasandra
