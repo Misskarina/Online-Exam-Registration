@@ -27,7 +27,7 @@ A **Java Swing-based desktop application** that allows students to register for 
 
 ## 📥 Installation & Usage
 
-1. **Clone the repository**
+1. Clone the repository
    ```bash
    git clone https://github.com/your-username/Online-Exam-Registration.git
    cd Online-Exam-Registration
@@ -46,39 +46,36 @@ A **Java Swing-based desktop application** that allows students to register for 
 
 # 🧾 Sample Output
 
--Roll Number: EXAM2025001
--Name: Karina Kumari
--Email: karina@example.com
--Course: B.Tech CSE
--Exam Date: 2025-08-12
+- Roll Number: EXAM2025001
+- Name: Karina Kumari
+- Email: karina@example.com
+- Course: B.Tech CSE
+- Exam Date: 2025-08-12
 # 📁 Project Structure
 
 Online-Exam-Registration/
--│
--├── ExamRegistration.java        # Main GUI and logic
--├── students_data.txt            # Local file to store registrations
--├── README.md                    # Project overview
--└── assets/                      # Screenshots or icons (optional)
-🙌 Contributing
-Contributions are welcome! Here's how you can help:
+- │
+- ├── ExamRegistration.java        # Main GUI and logic
+- ├── students_data.txt            # Local file to store registrations
+- ├── README.md                    # Project overview
+- └── assets/                      # Screenshots or icons (optional)
+## 🙌 Contributing
+- Contributions are welcome! Here's how you can help:
 
-Report bugs
+- Report bugs
 
-Suggest new features
+- Suggest new features
 
-Improve UI/UX
+- Improve UI/UX
 
-Refactor or optimize code
+- Refactor or optimize code
 
-To contribute:
+- To contribute:
 
-bash
-Copy
-Edit
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Open a pull request
+- 1. Fork the repository
+- 2. Create a new branch
+- 3. Commit your changes
+- 4. Open a pull request
 
 ### After accepting term and  condition
 ![Image](https://github.com/user-attachments/assets/1e8d6021-64dd-428b-b832-a2a7d6526063)
